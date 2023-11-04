@@ -1,0 +1,49 @@
+Circuit: * C:\Users\loreb\Documents\GitHub\Hardware_and_Software_Co-Design\Simulazioni\Sim_condizionamento_hs.asc
+
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Increasing initial diagonal Gmin to 100
+Increasing initial diagonal Gmin to 1000
+Gmin = 1000
+Gmin = 107.374
+Gmin = 11.5292
+Gmin = 1.23794
+Gmin = 0.132923
+Gmin = 0.0142725
+Gmin = 0.0015325
+vernier = 0.5
+Gmin = 0.00025711
+vernier = 0.666667
+Gmin = 6.6012e-005
+vernier = 0.888888
+vernier = 1
+Gmin = 8.6905e-006
+Gmin = 9.33136e-007
+Gmin = 1.00195e-007
+Gmin = 1.07583e-008
+Gmin = 1.15517e-009
+Gmin = 1.24035e-010
+Gmin = 1.33182e-011
+Gmin = 1.43003e-012
+Gmin = 1.53548e-013
+Gmin = 0
+Gmin stepping succeeded in finding the operating point.
+
+
+Date: Sat Nov 04 11:41:25 2023
+Total elapsed time: 0.689 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 95779
+traniter = 94943
+tranpoints = 39218
+accept = 24869
+rejected = 14349
+matrix size = 19
+fillins = 8
+solver = Normal
+Matrix Compiler1: 1.18 KB object code size  0.3/0.2/[0.1]
+Matrix Compiler2: 1.89 KB object code size  0.2/0.2/[0.2]
+
