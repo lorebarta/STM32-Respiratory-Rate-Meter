@@ -1,0 +1,4 @@
+Circuit: * C:\Users\loreb\Documents\GitHub\Hardware_and_Software_Co-Design\Simulazioni\FDA.asc
+
+Fatal Error: Port(pin) count mismatch between the definition of subcircuit "opa1632" and instance: "xu1"
+The instance has more connection terminals than the definition.
